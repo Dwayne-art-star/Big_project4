@@ -1,0 +1,94 @@
+div {
+   font-family: Helvetica;
+   background-color: #272D33;
+   color: white;
+   font-size: 32px;
+   padding: 5px;
+}
+
+nav {
+   background-color: #272D33;
+   padding: 15px;
+   display: flex;
+   justify-content: space-evenly;
+   text-align: center;
+   position: relative;
+   top: 10;
+   width: 100%;
+}
+
+p{
+    color: white;
+}
+
+img {
+   width: 60px;
+}
+
+.items:hover {
+   background-color: gray;
+   opacity: 0.5;
+}
+
+a {
+   width: 20%;
+   text-align: center;
+   text-decoration: none;
+}
+
+#Info{
+    width: 700px;
+    height: 700px;
+    border: solid black 10px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    color: black;
+}
+
+body{
+    background-color: darkgray;
+}
+
+#Hello{
+    color: white;
+}
+
+#Photo{
+    width: 600px;
+}
+
+footer{
+    width: 100%;
+    margin: 2 auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.Information{
+    background-color: black;
+    padding: 10px;
+    border: 1px solid rgb(24, 23, 23);
+    display: inline-block;
+    border-radius: 5px;
+    color: white;
+}
+
+#Size{
+    width: 1600px;
+    height: 600px;
+}
+
+.custom-line{
+    border: none;
+    height: 15px;
+    background-color: black;
+    margin: 20px 0;
+}
